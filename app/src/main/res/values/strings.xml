@@ -1,3 +1,5 @@
 <resources>
     <string name="blog_title">My Technical Blog</string>
+    <string name="blog_desc">Welcome to my blog section</string>
+
 </resources>
